@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://shunsukekaiya.github.io/blog/_blog/posts/first/</loc>
+    <loc>http://shunsukekaiya.github.io/posts/first/</loc>
     <lastmod>2019-01-26T17:48:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shunsukekaiya.github.io/blog/_blog/posts/second/</loc>
+    <loc>http://shunsukekaiya.github.io/posts/second/</loc>
     <lastmod>2018-08-08T17:06:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://shunsukekaiya.github.io/blog/_blog/categories/</loc>
+    <loc>http://shunsukekaiya.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shunsukekaiya.github.io/blog/_blog/</loc>
+    <loc>http://shunsukekaiya.github.io/posts/</loc>
     <lastmod>2019-01-26T17:48:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shunsukekaiya.github.io/blog/_blog/posts/</loc>
-    <lastmod>2019-01-26T17:48:14+09:00</lastmod>
+    <loc>http://shunsukekaiya.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shunsukekaiya.github.io/blog/_blog/tags/</loc>
+    <loc>http://shunsukekaiya.github.io/</loc>
+    <lastmod>2019-01-26T17:48:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
